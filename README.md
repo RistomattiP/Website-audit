@@ -1,7 +1,7 @@
 # Website-audit
 WordPress plugin for analyzing web sites and web apps using Google's Lighthouse API
 
-
+![alt text](https://github.com/RistomattiP/Website-audit/blob/master/wp%20plugin.PNG)
 
 ## Testing
 
