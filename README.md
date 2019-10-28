@@ -11,6 +11,8 @@ For testing this plugin you can host WordPress on your own localhost.
 
 Once WordPress is installed, add **wp-audit** directory under WordPress plugins directory.
 
+Add all the files to your new directory.
+
 Activate the plugin from WordPress admin menu.
 
 Create **new page** and add [audit] shortcode to it.
