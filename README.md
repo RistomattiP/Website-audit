@@ -1,5 +1,5 @@
 # Website-audit
-WordPress plugin I made during my intership at Dublin autumn 2019. This plugin is written with PHP and Javascript. The plugin uses Lighthouse API. [Github repo](https://github.com/GoogleChrome/lighthouse)
+WordPress plugin I made during my intership at Dublin (autumn 2019). This plugin is written with PHP and Javascript. The plugin uses Google web tool Lighthouse. [Docs](https://developers.google.com/web/tools/lighthouse)
 
 ![alt text](https://github.com/RistomattiP/Website-audit/blob/master/wp%20plugin.PNG)
 
