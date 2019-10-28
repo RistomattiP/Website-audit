@@ -10,6 +10,7 @@ For testing this plugin you can host WordPress on your own localhost.
 7 step guide for installing WordPress on your localhost: https://www.themeum.com/install-wordpress-localhost/ 
 
 Once WordPress is installed, add wp-audit directory under WordPress plugins directory.
-Activate the plugin from WordPress admin menu.
-Create new page and add [audit] shortcode to it.
 
+Activate the plugin from WordPress admin menu.
+
+Create new page and add [audit] shortcode to it.
