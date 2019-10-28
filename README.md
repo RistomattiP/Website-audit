@@ -5,7 +5,7 @@ WordPress plugin I made during my intership at Dublin autumn 2019. This plugin i
 
 ## Testing
 
-For testing this plugin you can host WordPress on your own localhost.
+For testing this plugin you can host WordPress on localhost.
 
 7 step guide for installing WordPress on your localhost: https://www.themeum.com/install-wordpress-localhost/ 
 
